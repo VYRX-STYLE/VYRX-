@@ -10,13 +10,13 @@ const client = new Client({
   fromMe: false, 
   owners: [
   // Owner 1
-    { name: "VA", lid: "247579682029763@lid", jid: "201284390817@s.whatsapp.net" },
+    { name: "VYRX", lid: "247579682029763@lid", jid: "201284390817@s.whatsapp.net" },
   // Owner 2
-    { name: "emam", lid: "221307316789354@lid", jid: "201284390817@s.whatsapp.net" },
+    { name: "VYRX", lid: "221307316789354@lid", jid: "201284390817@s.whatsapp.net" },
   // Owner 3
-    { name: "Sukuna", jid: "201284390817@s.whatsapp.net", lid: "50414477168824@lid" },
+    { name: "VYRX", jid: "201284390817@s.whatsapp.net", lid: "50414477168824@lid" },
   // Owner 4 
-   { name: "عمورتي", jid: "201284390817@s.whatsapp.net", lid: "51664513925368@lid" }
+   { name: "VYRX", jid: "201284390817@s.whatsapp.net", lid: "51664513925368@lid" }
   ],
   settings: { noWelcome: false },
   commandsPath: './plugins'
@@ -33,7 +33,7 @@ if (!global.db) {
 /* =========== Config ========== */
 const { config } = client;
 config.info = { 
-  nameBot: "♡ 𝙋𝙊𝙈𝙉𝙄 🎪 〈", 
+  nameBot: "♡ 𝐌𝐕𝐏𝐗 𝐒𝐓𝐘𝑳𝐄 ?! ༆ 🎪 〈", 
   nameChannel: "𝐕𝐈𝐈7 ~ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🕷️", 
   idChannel: "120363225356834044@newsletter",
   urls: {
@@ -42,8 +42,8 @@ config.info = {
     channel: "https://whatsapp.com/channel/0029VaQim2bAu3aPsRVaDq3v"
   },
   copyright: { 
-    pack: 'ڤـ ـ VA ـ ـا', 
-    author: 'VA'
+    pack: 'ڤـ ـ VYRX ـ ـا', 
+    author: 'VYRX'
   },
   images: [
     "https://i.pinimg.com/originals/11/26/97/11269786cdb625c60213212aa66273a9.png",
